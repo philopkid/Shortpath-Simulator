@@ -1,0 +1,129 @@
+C:\Users\samsung\AppData\Local\Temporary Projects\Simulator\bin\Debug\Simulator.exe
+C:\Users\samsung\AppData\Local\Temporary Projects\Simulator\bin\Debug\Simulator.pdb
+C:\Users\samsung\AppData\Local\Temporary Projects\Simulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\samsung\AppData\Local\Temporary Projects\Simulator\obj\Debug\Simulator.Form1.resources
+C:\Users\samsung\AppData\Local\Temporary Projects\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\samsung\AppData\Local\Temporary Projects\Simulator\obj\Debug\Simulator.csproj.GenerateResource.Cache
+C:\Users\samsung\AppData\Local\Temporary Projects\Simulator\obj\Debug\Simulator.exe
+C:\Users\samsung\AppData\Local\Temporary Projects\Simulator\obj\Debug\Simulator.pdb
+C:\Users\samsung\AppData\Local\Temporary Projects\Simulator\obj\Debug\Simulator.Lectures.resources
+C:\Users\samsung\AppData\Local\Temporary Projects\Simulator\obj\Debug\Simulator.Dijkstra.resources
+C:\Users\samsung\AppData\Local\Temporary Projects\Simulator\obj\Debug\Simulator.Genetic.resources
+C:\Users\samsung\AppData\Local\Temporary Projects\Simulator\obj\Debug\Simulator.AStar.resources
+C:\Users\samsung\AppData\Local\Temporary Projects\Simulator\obj\Debug\Simulator.Bellman_Ford.resources
+C:\Users\samsung\AppData\Local\Temporary Projects\Simulator\obj\Debug\Simulator.Floyd_Warshall.resources
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\obj\Debug\Simulator.exe
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\obj\Debug\Simulator.pdb
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\bin\Debug\Simulator.exe
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\bin\Debug\Simulator.pdb
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\obj\Debug\Simulator.AStar.resources
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\obj\Debug\Simulator.Bellman_Ford.resources
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\obj\Debug\Simulator.Dijkstra.resources
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\obj\Debug\Simulator.Floyd_Warshall.resources
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\obj\Debug\Simulator.Form1.resources
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\obj\Debug\Simulator.Genetic.resources
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\obj\Debug\Simulator.Lectures.resources
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\obj\Debug\Simulator.csproj.GenerateResource.Cache
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\obj\Debug\Simulator.AssessmentsForm.resources
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\obj\Debug\Simulator.Dijkstra_Questions.resources
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\obj\Debug\Simulator.Work_with_Algorithms.resources
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\obj\Debug\Simulator.Dictionary.resources
+C:\Users\samsung\Documents\Visual Studio 2008\Projects\Simulator\Simulator\obj\Debug\Simulator.GraphFormer.resources
+I:\Simulator\Simulator\obj\Debug\Simulator.exe
+I:\Simulator\Simulator\obj\Debug\Simulator.pdb
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\bin\Debug\Simulator.exe
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\bin\Debug\Simulator.pdb
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.AStar.resources
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.Bellman_Ford.resources
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.Dictionary.resources
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.Dijkstra_Questions.resources
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.DijkstraForm.resources
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.Floyd_Warshall.resources
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.Form1.resources
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.Genetic.resources
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.GraphFormer.resources
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.Lectures.resources
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.GraphCreator.resources
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.Work_with_Algorithms.resources
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.csproj.GenerateResource.Cache
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.exe
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.pdb
+C:\Users\kid\Documents\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.AboutBox1.resources
+C:\Documents and Settings\kid\My Documents\new\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.exe
+C:\Documents and Settings\kid\My Documents\new\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.pdb
+C:\Documents and Settings\kid\My Documents\new\shortest path algorithm- thesis\Simulator\Simulator\bin\Debug\Simulator.exe
+C:\Documents and Settings\kid\My Documents\new\shortest path algorithm- thesis\Simulator\Simulator\bin\Debug\Simulator.pdb
+C:\Documents and Settings\kid\My Documents\new\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\kid\My Documents\new\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.AboutBox1.resources
+C:\Documents and Settings\kid\My Documents\new\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.Dictionary.resources
+C:\Documents and Settings\kid\My Documents\new\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.Dijkstra_Questions.resources
+C:\Documents and Settings\kid\My Documents\new\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.Form1.resources
+C:\Documents and Settings\kid\My Documents\new\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.GraphFormer.resources
+C:\Documents and Settings\kid\My Documents\new\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.Lectures.resources
+C:\Documents and Settings\kid\My Documents\new\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\Documents and Settings\kid\My Documents\new\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.GraphCreator.resources
+C:\Documents and Settings\kid\My Documents\new\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.Work_with_Algorithms.resources
+C:\Documents and Settings\kid\My Documents\new\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.csproj.GenerateResource.Cache
+C:\Documents and Settings\kid\My Documents\new\shortest path algorithm- thesis\Simulator\Simulator\obj\Debug\Simulator.LecturesForm.resources
+H:\Simulator\Simulator\obj\Debug\Simulator.exe
+H:\Simulator\Simulator\obj\Debug\Simulator.pdb
+H:\Simulator\Simulator\obj\Debug\ResolveAssemblyReference.cache
+H:\Simulator\Simulator\obj\Debug\Simulator.AboutBox1.resources
+H:\Simulator\Simulator\obj\Debug\Simulator.Dictionary.resources
+H:\Simulator\Simulator\obj\Debug\Simulator.Dijkstra_Questions.resources
+H:\Simulator\Simulator\obj\Debug\Simulator.Form1.resources
+H:\Simulator\Simulator\obj\Debug\Simulator.Lectures.resources
+H:\Simulator\Simulator\obj\Debug\Simulator.LecturesForm.resources
+H:\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+H:\Simulator\Simulator\obj\Debug\Simulator.GraphCreator.resources
+H:\Simulator\Simulator\obj\Debug\Simulator.Work_with_Algorithms.resources
+H:\Simulator\Simulator\obj\Debug\Simulator.csproj.GenerateResource.Cache
+H:\Simulator\Simulator\bin\Debug\Simulator.exe
+H:\Simulator\Simulator\bin\Debug\Simulator.pdb
+C:\Users\kid\Downloads\Simulator\Simulator\obj\Debug\Simulator.exe
+C:\Users\kid\Downloads\Simulator\Simulator\obj\Debug\Simulator.pdb
+C:\Users\kid\Downloads\Simulator\Simulator\bin\Debug\Simulator.exe
+C:\Users\kid\Downloads\Simulator\Simulator\bin\Debug\Simulator.pdb
+C:\Users\kid\Downloads\Simulator\Simulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kid\Downloads\Simulator\Simulator\obj\Debug\Simulator.AboutBox1.resources
+C:\Users\kid\Downloads\Simulator\Simulator\obj\Debug\Simulator.Dictionary.resources
+C:\Users\kid\Downloads\Simulator\Simulator\obj\Debug\Simulator.Dijkstra_Questions.resources
+C:\Users\kid\Downloads\Simulator\Simulator\obj\Debug\Simulator.Form1.resources
+C:\Users\kid\Downloads\Simulator\Simulator\obj\Debug\Simulator.Lectures.resources
+C:\Users\kid\Downloads\Simulator\Simulator\obj\Debug\Simulator.LecturesForm.resources
+C:\Users\kid\Downloads\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\kid\Downloads\Simulator\Simulator\obj\Debug\Simulator.GraphCreator.resources
+C:\Users\kid\Downloads\Simulator\Simulator\obj\Debug\Simulator.Work_with_Algorithms.resources
+C:\Users\kid\Downloads\Simulator\Simulator\obj\Debug\Simulator.csproj.GenerateResource.Cache
+I:\Simulator\Simulator\obj\Debug\ResolveAssemblyReference.cache
+I:\Simulator\Simulator\obj\Debug\Simulator.AboutBox1.resources
+I:\Simulator\Simulator\obj\Debug\Simulator.Dictionary.resources
+I:\Simulator\Simulator\obj\Debug\Simulator.Dijkstra_Questions.resources
+I:\Simulator\Simulator\obj\Debug\Simulator.Form1.resources
+I:\Simulator\Simulator\obj\Debug\Simulator.Lectures.resources
+I:\Simulator\Simulator\obj\Debug\Simulator.LecturesForm.resources
+I:\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+I:\Simulator\Simulator\obj\Debug\Simulator.GraphCreator.resources
+I:\Simulator\Simulator\obj\Debug\Simulator.Work_with_Algorithms.resources
+I:\Simulator\Simulator\obj\Debug\Simulator.csproj.GenerateResource.Cache
+I:\Simulator\Simulator\bin\Debug\Simulator.exe
+I:\Simulator\Simulator\bin\Debug\Simulator.pdb
+C:\Users\kid\Documents\Simulator\Simulator\obj\Debug\Simulator.exe
+C:\Users\kid\Documents\Simulator\Simulator\obj\Debug\Simulator.pdb
+C:\Users\kid\Documents\Simulator\Simulator\bin\Debug\Simulator.exe
+C:\Users\kid\Documents\Simulator\Simulator\bin\Debug\Simulator.pdb
+C:\Users\kid\Documents\Simulator\Simulator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kid\Documents\Simulator\Simulator\obj\Debug\Simulator.AboutBox1.resources
+C:\Users\kid\Documents\Simulator\Simulator\obj\Debug\Simulator.Dictionary.resources
+C:\Users\kid\Documents\Simulator\Simulator\obj\Debug\Simulator.Dijkstra_Questions.resources
+C:\Users\kid\Documents\Simulator\Simulator\obj\Debug\Simulator.Form1.resources
+C:\Users\kid\Documents\Simulator\Simulator\obj\Debug\Simulator.Lectures.resources
+C:\Users\kid\Documents\Simulator\Simulator\obj\Debug\Simulator.LecturesForm.resources
+C:\Users\kid\Documents\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\kid\Documents\Simulator\Simulator\obj\Debug\Simulator.GraphCreator.resources
+C:\Users\kid\Documents\Simulator\Simulator\obj\Debug\Simulator.Work_with_Algorithms.resources
+C:\Users\kid\Documents\Simulator\Simulator\obj\Debug\Simulator.csproj.GenerateResource.Cache
